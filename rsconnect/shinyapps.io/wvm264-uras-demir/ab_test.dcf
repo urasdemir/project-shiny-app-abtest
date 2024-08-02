@@ -1,0 +1,10 @@
+name: ab_test
+title:
+username: wvm264-uras-demir
+account: wvm264-uras-demir
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12234334
+bundleId: 8787791
+url: https://wvm264-uras-demir.shinyapps.io/ab_test/
+version: 1
